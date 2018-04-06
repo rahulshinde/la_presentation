@@ -53,6 +53,32 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+@keyframes lol1 {
+  0% {
+    transform: translateX(0);
+    opacity: 1; }
+  97% {
+    transform: translateX(180%);
+    opacity: 1; }
+  99% {
+    transform: translateX(180%);
+    opacity: 0; }
+  100% {
+    transform: translateX(0);
+    opacity: 0; } }
+@keyframes lol2 {
+  0% {
+    transform: translateY(0) rotate(90deg);
+    opacity: 1; }
+  97% {
+    transform: translateY(calc(200vh + 120%)) rotate(90deg);
+    opacity: 1; }
+  99% {
+    transform: translateY(calc(200vh + 120%)) rotate(90deg);
+    opacity: 0; }
+  100% {
+    transform: translateY(0) rotate(90deg);
+    opacity: 0; } }
 html {
   font-size: 18px; }
   @media screen and (min-width: 1800px) {
@@ -71,16 +97,62 @@ html {
     html {
       font-size: 18px; } }
 
-#site .prev,
-#site .next {
-  position: fixed;
-  top: 0;
-  width: 50%;
-  height: 100%;
-  bottom: 0; }
-#site .prev {
-  left: 0; }
-#site .next {
-  right: 0; }
+#site {
+  /*3*/ }
+  #site .prev,
+  #site .next {
+    position: fixed;
+    top: 0;
+    width: 50%;
+    height: 100%;
+    bottom: 0; }
+  #site .prev {
+    left: 0; }
+  #site .next {
+    right: 0; }
+  #site #center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%;
+    border: 1px solid;
+    height: 90vh;
+    background-color: #fff;
+    z-index: 10; }
+    #site #center video {
+      margin-top: 1rem;
+      margin-left: 1rem;
+      width: calc(100% - 2rem);
+      border: 1px solid red; }
+    #site #center #mirror_image {
+      position: absolute;
+      top: 35%;
+      width: 25%;
+      left: 15%; }
+    #site #center #hammer_image {
+      position: absolute;
+      width: 55%;
+      bottom: 1rem;
+      right: 1rem;
+      border: 1px solid red; }
+  #site #rep {
+    position: fixed;
+    bottom: 5vh;
+    left: 1rem;
+    width: 20%; }
+  #site #lol1,
+  #site #lol2 {
+    position: fixed;
+    width: 40%; }
+  #site #lol1 {
+    top: 5vh;
+    left: -40%;
+    animation: lol1 10s linear infinite; }
+  #site #lol2 {
+    transform: rotate(90deg);
+    right: -5rem;
+    top: -20rem;
+    animation: lol2 10s linear 3.5s infinite; }
 
 /*# sourceMappingURL=main.css.map */
