@@ -79,6 +79,16 @@ table {
   100% {
     transform: translateY(0) rotate(90deg);
     opacity: 0; } }
+@keyframes irony_blur {
+  0% {
+    -webkit-filter: blur(0px);
+    filter: blur(0px); }
+  50% {
+    -webkit-filter: blur(10px);
+    filter: blur(10px); }
+  100% {
+    -webkit-filter: blur(0px);
+    filter: blur(0px); } }
 html {
   font-size: 18px; }
   @media screen and (min-width: 1800px) {
@@ -98,7 +108,11 @@ html {
       font-size: 18px; } }
 
 #site {
-  /*3*/ }
+  /*3*/
+  /* 4 */
+  /* 5 */
+  /*6*/
+  /*7*/ }
   #site .prev,
   #site .next {
     position: fixed;
@@ -154,5 +168,84 @@ html {
     right: -5rem;
     top: -20rem;
     animation: lol2 10s linear 3.5s infinite; }
+  #site #mirror_reflection {
+    width: 80%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+  #site #irony1,
+  #site #irony2,
+  #site #irony3 {
+    position: fixed;
+    width: 80%;
+    left: 10%;
+    animation: irony_blur 15s linear infinite; }
+  #site #irony1 {
+    top: 10%; }
+  #site #irony2 {
+    top: 50%;
+    transform: translateY(-50%); }
+  #site #irony3 {
+    bottom: 10%; }
+  #site #chapter5_video {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    transform: translate(-50%, -50%); }
+  #site #oh_no5 {
+    position: fixed;
+    height: 90vh;
+    top: 5vh;
+    left: 1rem; }
+  #site #irony5 {
+    position: fixed;
+    height: 90vh;
+    top: 5vh;
+    right: 1rem; }
+  #site #ch6_video_container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 50vh;
+    background-color: #000; }
+    #site #ch6_video_container video {
+      display: block;
+      margin: auto;
+      width: auto;
+      height: 100%; }
+  #site #ch6_image1 {
+    position: fixed;
+    height: 15vh;
+    top: 5vh;
+    left: 5%; }
+  #site #ch6_image2 {
+    position: fixed;
+    height: 15vh;
+    top: 5vh;
+    right: 5%; }
+  #site #ch6_image3 {
+    position: fixed;
+    width: 90%;
+    bottom: 5vh;
+    left: 5%; }
+  #site #ch7_image1 {
+    position: fixed;
+    height: 90vh;
+    top: 5vh;
+    left: 5%; }
+  #site #ch7_image2 {
+    position: fixed;
+    height: 50vh;
+    top: 25vh;
+    right: 5%; }
+  #site #ch7_image3 {
+    position: fixed;
+    height: 30vh;
+    top: 35vh;
+    left: 53%; }
 
 /*# sourceMappingURL=main.css.map */
