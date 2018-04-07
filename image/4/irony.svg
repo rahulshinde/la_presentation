@@ -4,189 +4,26 @@
 	 viewBox="0 0 1195.4 156.3" style="enable-background:new 0 0 1195.4 156.3;" xml:space="preserve">
 <style type="text/css">
 	.st0{enable-background:new    ;}
-	.st1{clip-path:url(#SVGID_2_);enable-background:new    ;}
-	.st2{fill:#171415;}
-	.st3{fill:#161414;}
-	.st4{fill:#161314;}
-	.st5{fill:#151313;}
-	.st6{fill:#141213;}
-	.st7{fill:#141112;}
-	.st8{fill:#131111;}
-	.st9{fill:#121011;}
-	.st10{clip-path:url(#SVGID_4_);enable-background:new    ;}
-	.st11{fill:#1D1A1B;}
-	.st12{fill:#1D191A;}
-	.st13{fill:#1C191A;}
-	.st14{fill:#1B1819;}
-	.st15{fill:#1B1818;}
-	.st16{fill:#1A1718;}
-	.st17{fill:#191617;}
-	.st18{fill:#191616;}
-	.st19{fill:#181516;}
-	.st20{fill:#1E1B1C;}
-	.st21{fill:#1F1B1C;}
-	.st22{fill:#201C1D;}
-	.st23{clip-path:url(#SVGID_6_);enable-background:new    ;}
-	.st24{fill:#949494;}
-	.st25{fill:#8F8F8F;}
-	.st26{fill:#8A8A8A;}
-	.st27{fill:#858585;}
-	.st28{clip-path:url(#SVGID_8_);enable-background:new    ;}
-	.st29{fill:#C7C7C7;}
-	.st30{fill:#C2C2C2;}
-	.st31{fill:#BDBDBD;}
-	.st32{fill:#B8B8B8;}
-	.st33{fill:#B3B3B3;}
-	.st34{fill:#ADADAD;}
-	.st35{fill:#A8A8A8;}
-	.st36{fill:#A3A3A3;}
-	.st37{fill:#9E9E9E;}
-	.st38{fill:#999999;}
-	.st39{clip-path:url(#SVGID_10_);enable-background:new    ;}
-	.st40{clip-path:url(#SVGID_12_);enable-background:new    ;}
-	.st41{fill:#E0E0E0;}
-	.st42{fill:#E6E6E6;}
-	.st43{fill:#DBDBDB;}
-	.st44{fill:#D6D6D6;}
-	.st45{fill:#D1D1D1;}
-	.st46{fill:#CCCCCC;}
-	.st47{clip-path:url(#SVGID_14_);enable-background:new    ;}
-	.st48{clip-path:url(#SVGID_16_);enable-background:new    ;}
-	.st49{clip-path:url(#SVGID_18_);enable-background:new    ;}
-	.st50{clip-path:url(#SVGID_20_);enable-background:new    ;}
-	.st51{clip-path:url(#SVGID_22_);enable-background:new    ;}
-	.st52{clip-path:url(#SVGID_24_);enable-background:new    ;}
-	.st53{clip-path:url(#SVGID_26_);enable-background:new    ;}
-	.st54{clip-path:url(#SVGID_28_);enable-background:new    ;}
-	.st55{clip-path:url(#SVGID_30_);enable-background:new    ;}
-	.st56{clip-path:url(#SVGID_32_);enable-background:new    ;}
-	.st57{clip-path:url(#SVGID_34_);enable-background:new    ;}
-	.st58{clip-path:url(#SVGID_36_);enable-background:new    ;}
-	.st59{clip-path:url(#SVGID_38_);enable-background:new    ;}
-	.st60{clip-path:url(#SVGID_40_);enable-background:new    ;}
-	.st61{clip-path:url(#SVGID_42_);enable-background:new    ;}
-	.st62{clip-path:url(#SVGID_44_);enable-background:new    ;}
-	.st63{clip-path:url(#SVGID_46_);enable-background:new    ;}
-	.st64{clip-path:url(#SVGID_48_);enable-background:new    ;}
-	.st65{clip-path:url(#SVGID_50_);enable-background:new    ;}
-	.st66{clip-path:url(#SVGID_52_);enable-background:new    ;}
-	.st67{clip-path:url(#SVGID_54_);enable-background:new    ;}
-	.st68{clip-path:url(#SVGID_56_);enable-background:new    ;}
-	.st69{fill:#828282;}
-	.st70{fill:#878787;}
-	.st71{clip-path:url(#SVGID_58_);enable-background:new    ;}
-	.st72{clip-path:url(#SVGID_60_);enable-background:new    ;}
-	.st73{fill:#808080;}
-	.st74{fill:#9A9A9A;}
-	.st75{clip-path:url(#SVGID_62_);enable-background:new    ;}
-	.st76{clip-path:url(#SVGID_64_);enable-background:new    ;}
-	.st77{fill:#B9B9B9;}
-	.st78{fill:#121010;}
-	.st79{fill:#211D1E;}
-	.st80{clip-path:url(#SVGID_66_);enable-background:new    ;}
-	.st81{clip-path:url(#SVGID_68_);enable-background:new    ;}
-	.st82{clip-path:url(#SVGID_70_);enable-background:new    ;}
-	.st83{clip-path:url(#SVGID_72_);enable-background:new    ;}
-	.st84{clip-path:url(#SVGID_74_);enable-background:new    ;}
-	.st85{clip-path:url(#SVGID_76_);enable-background:new    ;}
-	.st86{fill:#A1A1A1;}
-	.st87{fill:#A6A6A6;}
-	.st88{fill:#ABABAB;}
-	.st89{fill:#B0B0B0;}
-	.st90{clip-path:url(#SVGID_78_);enable-background:new    ;}
-	.st91{clip-path:url(#SVGID_80_);enable-background:new    ;}
-	.st92{clip-path:url(#SVGID_82_);enable-background:new    ;}
-	.st93{fill:#9C9C9C;}
-	.st94{fill:#969696;}
-	.st95{fill:#919191;}
-	.st96{fill:#8C8C8C;}
-	.st97{clip-path:url(#SVGID_84_);enable-background:new    ;}
-	.st98{clip-path:url(#SVGID_86_);enable-background:new    ;}
-	.st99{clip-path:url(#SVGID_88_);enable-background:new    ;}
-	.st100{clip-path:url(#SVGID_90_);enable-background:new    ;}
-	.st101{clip-path:url(#SVGID_92_);enable-background:new    ;}
-	.st102{clip-path:url(#SVGID_94_);enable-background:new    ;}
-	.st103{clip-path:url(#SVGID_96_);enable-background:new    ;}
-	.st104{clip-path:url(#SVGID_98_);enable-background:new    ;}
-	.st105{clip-path:url(#SVGID_100_);enable-background:new    ;}
-	.st106{clip-path:url(#SVGID_102_);enable-background:new    ;}
-	.st107{clip-path:url(#SVGID_104_);enable-background:new    ;}
-	.st108{fill:#979797;}
-	.st109{clip-path:url(#SVGID_106_);}
-	.st110{fill:#AFAFAF;}
-	.st111{clip-path:url(#SVGID_110_);enable-background:new    ;}
-	.st112{clip-path:url(#SVGID_112_);enable-background:new    ;}
-	.st113{fill:url(#SVGID_113_);stroke:#231F20;stroke-miterlimit:10;}
-	.st114{clip-path:url(#SVGID_115_);enable-background:new    ;}
-	.st115{clip-path:url(#SVGID_117_);enable-background:new    ;}
-	.st116{clip-path:url(#SVGID_119_);enable-background:new    ;}
-	.st117{clip-path:url(#SVGID_121_);enable-background:new    ;}
-	.st118{clip-path:url(#SVGID_123_);enable-background:new    ;}
-	.st119{clip-path:url(#SVGID_125_);enable-background:new    ;}
-	.st120{clip-path:url(#SVGID_127_);enable-background:new    ;}
-	.st121{clip-path:url(#SVGID_129_);enable-background:new    ;}
-	.st122{clip-path:url(#SVGID_131_);enable-background:new    ;}
-	.st123{clip-path:url(#SVGID_133_);enable-background:new    ;}
-	.st124{clip-path:url(#SVGID_135_);enable-background:new    ;}
-	.st125{clip-path:url(#SVGID_137_);enable-background:new    ;}
-	.st126{clip-path:url(#SVGID_139_);enable-background:new    ;}
-	.st127{clip-path:url(#SVGID_141_);enable-background:new    ;}
-	.st128{clip-path:url(#SVGID_143_);enable-background:new    ;}
-	.st129{clip-path:url(#SVGID_145_);enable-background:new    ;}
-	.st130{clip-path:url(#SVGID_147_);enable-background:new    ;}
-	.st131{clip-path:url(#SVGID_149_);enable-background:new    ;}
-	.st132{clip-path:url(#SVGID_151_);enable-background:new    ;}
-	.st133{clip-path:url(#SVGID_153_);enable-background:new    ;}
-	.st134{clip-path:url(#SVGID_155_);enable-background:new    ;}
-	.st135{clip-path:url(#SVGID_157_);enable-background:new    ;}
-	.st136{clip-path:url(#SVGID_159_);enable-background:new    ;}
-	.st137{clip-path:url(#SVGID_161_);enable-background:new    ;}
-	.st138{clip-path:url(#SVGID_163_);enable-background:new    ;}
-	.st139{clip-path:url(#SVGID_165_);enable-background:new    ;}
-	.st140{clip-path:url(#SVGID_167_);enable-background:new    ;}
-	.st141{clip-path:url(#SVGID_169_);enable-background:new    ;}
-	.st142{clip-path:url(#SVGID_171_);}
-	.st143{clip-path:url(#SVGID_175_);enable-background:new    ;}
-	.st144{clip-path:url(#SVGID_177_);enable-background:new    ;}
-	.st145{clip-path:url(#SVGID_179_);enable-background:new    ;}
-	.st146{clip-path:url(#SVGID_181_);enable-background:new    ;}
-	.st147{clip-path:url(#SVGID_183_);enable-background:new    ;}
-	.st148{clip-path:url(#SVGID_185_);enable-background:new    ;}
-	.st149{clip-path:url(#SVGID_187_);enable-background:new    ;}
-	.st150{clip-path:url(#SVGID_189_);enable-background:new    ;}
-	.st151{clip-path:url(#SVGID_191_);enable-background:new    ;}
-	.st152{clip-path:url(#SVGID_193_);enable-background:new    ;}
-	.st153{clip-path:url(#SVGID_195_);enable-background:new    ;}
-	.st154{clip-path:url(#SVGID_197_);enable-background:new    ;}
-	.st155{clip-path:url(#SVGID_199_);enable-background:new    ;}
-	.st156{clip-path:url(#SVGID_201_);enable-background:new    ;}
-	.st157{clip-path:url(#SVGID_203_);enable-background:new    ;}
-	.st158{clip-path:url(#SVGID_205_);enable-background:new    ;}
-	.st159{clip-path:url(#SVGID_207_);enable-background:new    ;}
-	.st160{clip-path:url(#SVGID_209_);enable-background:new    ;}
-	.st161{clip-path:url(#SVGID_211_);enable-background:new    ;}
-	.st162{clip-path:url(#SVGID_213_);enable-background:new    ;}
-	.st163{clip-path:url(#SVGID_215_);enable-background:new    ;}
-	.st164{clip-path:url(#SVGID_217_);enable-background:new    ;}
-	.st165{clip-path:url(#SVGID_219_);enable-background:new    ;}
-	.st166{clip-path:url(#SVGID_221_);enable-background:new    ;}
-	.st167{clip-path:url(#SVGID_223_);enable-background:new    ;}
-	.st168{clip-path:url(#SVGID_225_);enable-background:new    ;}
-	.st169{clip-path:url(#SVGID_227_);enable-background:new    ;}
-	.st170{clip-path:url(#SVGID_229_);enable-background:new    ;}
-	.st171{clip-path:url(#SVGID_231_);enable-background:new    ;}
-	.st172{clip-path:url(#SVGID_233_);enable-background:new    ;}
-	.st173{clip-path:url(#SVGID_235_);enable-background:new    ;}
-	.st174{fill:#DFDFDF;}
-	.st175{clip-path:url(#SVGID_237_);enable-background:new    ;}
-	.st176{clip-path:url(#SVGID_239_);enable-background:new    ;}
-	.st177{clip-path:url(#SVGID_241_);enable-background:new    ;}
-	.st178{fill:url(#SVGID_242_);stroke:#231F20;stroke-miterlimit:10;}
-	.st179{fill:#FF0000;}
-	.st180{font-family:'ATSurt-Black';}
-	.st181{font-size:139.5653px;}
+	.st1{fill:#FF0000;}
 </style>
 <g>
-	<text transform="matrix(1 0 0 1 -0.4172 122.8164)" class="st179 st180 st181">OH, THE IRONY</text>
+	<g class="st0">
+		<path class="st1" d="M7,69.8c0-29.2,18.4-55.3,56.1-55.3c37.5,0,56.1,26.1,56.1,55.3c0,29.2-18.6,55.3-56.1,55.3
+			C25.4,125,7,98.9,7,69.8z M87.4,69.8c0-12.4-6.6-30.3-24.3-30.3c-17.9,0-24.3,17.9-24.3,30.3s6.4,30.3,24.3,30.3
+			C80.8,100.1,87.4,82.2,87.4,69.8z"/>
+		<path class="st1" d="M231.1,16.7v106.1h-29.3V84.7h-36.1v38.1h-29.3V16.7h29.3v40.2h36.1V16.7H231.1z"/>
+		<path class="st1" d="M260.8,122.8h-13.4V94.5h29.9v28.3l-13.7,28.3h-13.5L260.8,122.8z"/>
+		<path class="st1" d="M385.2,46.1v76.8h-29.3V46.1h-31.5V16.7h92.3l0.1,29.3H385.2z"/>
+		<path class="st1" d="M525.5,16.7v106.1h-29.3V84.7H460v38.1h-29.3V16.7H460v40.2h36.1V16.7H525.5z"/>
+		<path class="st1" d="M628.3,93.5v29.3h-82.5V16.7H626v29.3h-51.1v9.4H622v29.3h-47.2v8.8H628.3z"/>
+		<path class="st1" d="M686.1,16.7h29.3v106.1h-29.3V16.7z"/>
+		<path class="st1" d="M736.2,16.7h43c22.9,0,38.9,12.4,38.9,33.9c0,14.9-8,28.5-19.1,33.2c-2.2,0.7-2.4,0.8-2.8,1.1l29.9,37.8
+			h-35.2l-25.4-34.8v34.8h-29.3V16.7z M772.4,63.2c7.3,0,14.4-2,14.4-10.2c0-8.8-8.4-11.3-14.1-11.3h-7.1v21.5H772.4z"/>
+		<path class="st1" d="M837.1,69.8c0-29.2,18.4-55.3,56.1-55.3c37.5,0,56.1,26.1,56.1,55.3c0,29.2-18.6,55.3-56.1,55.3
+			C855.5,125,837.1,98.9,837.1,69.8z M917.5,69.8c0-12.4-6.6-30.3-24.3-30.3c-17.9,0-24.3,17.9-24.3,30.3s6.4,30.3,24.3,30.3
+			C910.9,100.1,917.5,82.2,917.5,69.8z"/>
+		<path class="st1" d="M966.5,16.7h27.8l37.7,56.9V16.7h29.3v106.1h-28.1l-37.4-55.7v55.7h-29.3V16.7z"/>
+		<path class="st1" d="M1120.3,85.7L1078,16.7h32.1l24.7,43.1l24.6-43.1h32.2l-42.2,68.9v37.1h-29.2V85.7z"/>
+	</g>
 </g>
 </svg>
